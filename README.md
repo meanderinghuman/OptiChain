@@ -297,10 +297,8 @@ Contributions, issues and feature requests are welcome!
 5. Open a Pull Request
 
 
-## License & Contact
+## License 
 
 This project is released under the **MIT License**.
-If you'd like to reach out: **Siddharth Pal** — meanderinghuman
 
----
 
